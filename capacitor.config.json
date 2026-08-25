@@ -1,0 +1,8 @@
+{
+  "appId": "com.xiaoyang.accounting",
+  "appName": "小羊记账",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

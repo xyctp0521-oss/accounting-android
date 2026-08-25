@@ -1,0 +1,15 @@
+{
+  "name": "xiaoyang-accounting",
+  "version": "1.0.0",
+  "description": "小羊记账 - 手机App版 (Capacitor)",
+  "private": true,
+  "scripts": {
+    "build": "echo \"web assets 已在 www/ 目录，无需额外构建\"",
+    "sync": "cap sync"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.0",
+    "@capacitor/cli": "^8.5.0",
+    "@capacitor/core": "^8.5.0"
+  }
+}
